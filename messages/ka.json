@@ -1,0 +1,46 @@
+{
+  "Navbar": {
+    "home": "მთავარი",
+    "about": "შესახებ",
+    "light": "ღია",
+    "dark": "მუქი"
+  },
+  "Home": {
+    "title": "მუსიკის ძებნა",
+    "searchPlaceholder": "მოძებნე შემსრულებელი...",
+    "search": "ძებნა",
+    "testError": "ტესტ შეცდომა",
+    "refresh": "განახლება",
+    "noSongs": "სიმღერები ვერ მოიძებნა. სცადე სხვა საძიებო სიტყვა."
+  },
+  "About": {
+    "title": "შესახებ",
+    "author": "შექმნილია საბა რევაზიშვილის მიერ",
+    "courseLink": "RS School React კურსი"
+  },
+  "NotFound": {
+    "title": "404",
+    "heading": "გვერდი ვერ მოიძებნა",
+    "description": "გვერდი რომელსაც ეძებ, არ არსებობს ან გადატანილია.",
+    "goHome": "მთავარზე დაბრუნება"
+  },
+  "Card": {
+    "selectTrack": "ტრეკის არჩევა"
+  },
+  "SongDetail": {
+    "album": "ალბომი",
+    "genre": "ჟანრი"
+  },
+  "ErrorCard": {
+    "title": "რაღაც შეცდომა მოხდა",
+    "tryAgain": "თავიდან ცდა"
+  },
+  "Flyout": {
+    "selected": "{count, plural, one {# ელემენტი არჩეულია} other {# ელემენტი არჩეულია}}",
+    "unselectAll": "ყველას მოხსნა",
+    "downloadCsv": "CSV ჩამოტვირთვა"
+  },
+  "LanguageSwitcher": {
+    "label": "ენა"
+  }
+}
