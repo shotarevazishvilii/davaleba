@@ -1,0 +1,46 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "Home": {
+    "title": "Music Search",
+    "searchPlaceholder": "Search Artist for...",
+    "search": "Search",
+    "testError": "Test Error",
+    "refresh": "Refresh",
+    "noSongs": "No songs found. Try a different search term."
+  },
+  "About": {
+    "title": "About",
+    "author": "Made by Saba Revazishvili",
+    "courseLink": "RS School React Course"
+  },
+  "NotFound": {
+    "title": "404",
+    "heading": "Page not found",
+    "description": "The page you are looking for doesn't exist or has been moved.",
+    "goHome": "Go Home"
+  },
+  "Card": {
+    "selectTrack": "Select Track"
+  },
+  "SongDetail": {
+    "album": "Album",
+    "genre": "Genre"
+  },
+  "ErrorCard": {
+    "title": "Something went wrong",
+    "tryAgain": "Try Again"
+  },
+  "Flyout": {
+    "selected": "{count, plural, one {# item selected} other {# items selected}}",
+    "unselectAll": "Unselect all",
+    "downloadCsv": "Download CSV"
+  },
+  "LanguageSwitcher": {
+    "label": "Language"
+  }
+}
